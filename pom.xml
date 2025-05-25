@@ -17,6 +17,7 @@
     <modules>
         <module>strategy</module>
         <module>observer</module>
+        <module>chain</module>
     </modules>
     <dependencies>
         <dependency>
